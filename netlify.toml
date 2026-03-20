@@ -1,0 +1,6 @@
+[build]
+  # This repo is plain static HTML/CSS/JS with no build step.
+  command = ""
+  # Publish from the repo root so `index.html` and `assets/` are served.
+  publish = "."
+
